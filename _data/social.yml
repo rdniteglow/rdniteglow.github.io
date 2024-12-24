@@ -1,12 +1,12 @@
 - title: Email
-  url: mailto://josephhan059@gmail.com
+  url: mailto://raudin_niteglow@foxmail.com
   icon: fas fa-envelope
-#- title: Twitter
-#  url: https://twitter.com/
-#  icon: fab fa-twitter
-#- title: Instagram
-#  url: https://instagram.com/
-#  icon: fab fa-instagram
+- title: Twitter
+  url: https://twitter.com/@the_palmier_952
+  icon: fab fa-twitter
+- title: Instagram
+  url: https://instagram.com/@the_palmier_952
+  icon: fab fa-instagram
 - title: GitHub
-  url: https://github.com/josephhanjunhui/
+  url: https://github.com/rdniteglow/
   icon: fab fa-github
